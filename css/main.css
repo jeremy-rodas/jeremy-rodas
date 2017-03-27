@@ -26,7 +26,7 @@ padding: 0 1em;
 }
 
 h1{
-font-size: 4.5em;
+font-size: 10em;
 margin: 0;
 font-family: "Open Sans", sans seriff;
 }
@@ -37,7 +37,7 @@ font-family: "Open Sans", sans seriff;
 }
 
 p, ul {
-font-size: 1em ;
+font-size: 2em ;
 font-family: "Open Sans", sans seriff;
 margin: 0 1.5em;
 line-height: 1.5;
