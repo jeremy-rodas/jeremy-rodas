@@ -64,12 +64,17 @@ font-size: 1em ;
 }
 
 #univers p {
-    float: left;
     width: 50%;
     margin: 0;
     !display: inline-block;
     !vertical-align: top;
     }
+    
+#univers .p1,
+#univers .p3 {
+    float: left;
+    }
+    
 }
 
 
