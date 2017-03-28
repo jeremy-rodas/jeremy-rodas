@@ -53,6 +53,16 @@ padding-bottom: 1em;
 padding-top: 1em;
 }
 
+@media (min-width: 60em) {
 
+h1{
+font-size: 10em;
+}
+
+p, ul {
+font-size: 1.5em ;
+}
+
+}
 
 
