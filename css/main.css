@@ -64,7 +64,9 @@ font-size: 1em ;
 }
 
 #univers p {
-    float: left;
+    width: 50%
+    margin: 10%
+    display: inline-block;
     }
 }
 
