@@ -64,10 +64,11 @@ font-size: 1em ;
 }
 
 #univers p {
-    width: 48%;
+    float: left;
+    width: 50%;
     margin: 0;
-    display: inline-block;
-    vertical-align: top;
+    !display: inline-block;
+    !vertical-align: top;
     }
 }
 
