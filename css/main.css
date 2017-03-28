@@ -72,7 +72,7 @@ font-size: 1em ;
     }
     
 #univers .p1 {
-    float: left;
+    !float: left;
     }
     
 #univers .p3 {
