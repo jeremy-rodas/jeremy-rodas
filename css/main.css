@@ -70,9 +70,12 @@ font-size: 1em ;
     !vertical-align: top;
     }
     
-#univers .p1,
-#univers .p3 {
+#univers .p1 {
     float: left;
+    }
+    
+#univers .p3 {
+    float: right;
     }
     
 }
