@@ -67,7 +67,7 @@ font-size: 1em ;
     float: left;
     width: 50%;
     margin: 0;
-    !display: inline-block;
+    display: inline-block;
     !vertical-align: top;
     }
     
@@ -84,7 +84,7 @@ font-size: 1em ;
     float: left;
     width: 50%;
     margin: 0;
-    !display: inline-block;
+    display: inline-block;
     !vertical-align: top;
     }
     
@@ -100,7 +100,7 @@ font-size: 1em ;
     float: left;
     width: 50%;
     margin: 0;
-    !display: inline-block;
+    display: inline-block;
     !vertical-align: top;
     }
     
@@ -126,7 +126,7 @@ font-size: 1em ;
     float: left;
     width: 25%;
     margin: 0;
-    !display: inline-block;
+    display: inline-block;
     !vertical-align: top;
     }
     
@@ -143,7 +143,7 @@ font-size: 1em ;
     float: left;
     width: 25%;
     margin: 0;
-    !display: inline-block;
+    display: inline-block;
     !vertical-align: top;
     }
     
@@ -159,7 +159,7 @@ font-size: 1em ;
     float: left;
     width: 25%;
     margin: 0;
-    !display: inline-block;
+    display: inline-block;
     !vertical-align: top;
     }
     
