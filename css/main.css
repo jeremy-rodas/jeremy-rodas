@@ -180,11 +180,11 @@ font-size: 1em ;
     }
     
 #characteristics .p2 {
-    float: left;
+    !float: left;
     }    
     
 #characteristics .p3 {
-    float: right;
+    !float: right;
     }    
 
 div{ display: none; 
