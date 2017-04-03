@@ -169,6 +169,10 @@ font-size: 1em ;
     !float: left;
     }
     
+#characteristics .p2 {
+    float: left;
+    }    
+    
 #characteristics .p3 {
     float: right;
     }    
