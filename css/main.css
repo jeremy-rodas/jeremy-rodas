@@ -78,7 +78,27 @@ font-size: 1em ;
 #univers .p3 {
     !float: right;
     }
+
+
+#usage p {
+    float: left;
+    width: 50%;
+    margin: 0;
+    !display: inline-block;
+    !vertical-align: top;
+    }
+    
+#usage .p1 {
+    !float: left;
+    }
+    
+#usage .p3 {
+    !float: right;
+    }
     
 }
+    
+  
+
 
 
