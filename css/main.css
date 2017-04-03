@@ -96,8 +96,23 @@ font-size: 1em ;
     !float: right;
     }
     
-   
+#characteristics p {
+    float: left;
+    width: 50%;
+    margin: 0;
+    !display: inline-block;
+    !vertical-align: top;
+    }
     
+#characteristics .p1 {
+    !float: left;
+    }
+    
+#characteristics .p3 {
+    !float: right;
+
+    }
+   
 @media (min-width: 80em) {
     h1{
 font-size: 10em;
@@ -140,6 +155,21 @@ font-size: 1em ;
     !float: right;
     }
     
+#characteristics p {
+    float: left;
+    width: 25%;
+    margin: 0;
+    !display: inline-block;
+    !vertical-align: top;
+    }
+    
+#characteristics .p1 {
+    !float: left;
+    }
+    
+#characteristics .p3 {
+    !float: right;
+    }    
 }
     
   
