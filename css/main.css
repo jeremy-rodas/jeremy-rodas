@@ -124,6 +124,7 @@ div{ display: none;
 @media (min-width: 80em) {
     
 body{ width:75%
+     font-size:110%
     }
     
     h1{
