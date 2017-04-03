@@ -119,6 +119,10 @@ section{ clear:both;
 div{ display: none;
     }
    
+@media (min-width: 75em) {
+    body{width:80;
+    }
+   
 @media (min-width: 80em) {
     
 body{ width:40%
