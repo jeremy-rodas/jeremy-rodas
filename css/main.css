@@ -170,7 +170,7 @@ font-size: 1em ;
     }
     
 #characteristics .p3 {
-    !float: right;
+    float: right;
     }    
 
 div{ display: none; 
