@@ -96,6 +96,47 @@ font-size: 1em ;
     !float: right;
     }
     
+@media (min-width: 80em) {
+    h1{
+font-size: 10em;
+}
+
+p, ul {
+font-size: 1em ;
+}
+
+#univers p {
+    float: left;
+    width: 25%;
+    margin: 0;
+    !display: inline-block;
+    !vertical-align: top;
+    }
+    
+#univers .p1 {
+    !float: left;
+    }
+    
+#univers .p3 {
+    !float: right;
+    }
+
+
+#usage p {
+    float: left;
+    width: 25%;
+    margin: 0;
+    !display: inline-block;
+    !vertical-align: top;
+    }
+    
+#usage .p1 {
+    !float: left;
+    }
+    
+#usage .p3 {
+    !float: right;
+    }
 }
     
   
