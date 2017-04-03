@@ -101,11 +101,11 @@ font-size: 1em ;
     
 @media (min-width: 80em) {
     h1{
-font-size: 10em;
+font-size: 9em;
 }
 
 p, ul {
-font-size: 1em ;
+font-size: .5em ;
 }
 
 #univers p {
