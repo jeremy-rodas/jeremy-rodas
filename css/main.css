@@ -100,7 +100,7 @@ div{ display: none;
     body{width:70%;
     }
  @media (min-width: 77em) {
-    body{width:60%;
+    body{width:55%;
     }
  
     h1{
@@ -141,12 +141,12 @@ div{ display: none;
 }
 
 @media (min-width: 77em) {
-  body{width:50%;
+  body{width:40%;
    }
     
     
 @media (min-width: 78em) {
-    body{width:40%;
+    body{width:25%;
     }
         
   
