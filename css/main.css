@@ -192,10 +192,14 @@ div{ display: none;
 
 @media (min-width: 77em) {
   body{width:60%;
+      align:right
    }
+    
+    
 @media (min-width: 78em) {
     body{width:50%;
     }
+        
   
 
 
