@@ -68,7 +68,7 @@ section{ clear:both;
 }
 
 #univers p {
-    float: left;
+    float: right;
     width: 50%;
     margin: 0;
     display: inline-block;
@@ -85,7 +85,7 @@ section{ clear:both;
 
 
 #usage p {
-    float: left;
+    float: right;
     width: 50%;
     margin: 0;
     display: inline-block;
@@ -101,7 +101,7 @@ section{ clear:both;
     }
     
 #characteristics p {
-    float: left;
+    float: right;
     width: 50%;
     margin: 0;
     display: inline-block;
@@ -135,58 +135,31 @@ font-size: 1em ;
 }
 
 #univers p {
-    float: left;
+    float: right;
     width: 25%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
     }
     
-#univers .p1 {
-    !float: left;
-    }
-    
-#univers .p3 {
-    !float: right;
-    }
-
 
 #usage p {
-    float: left;
+    float: right;
     width: 25%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
     }
     
-#usage .p1 {
-    !float: left;
-    }
-    
-#usage .p3 {
-    !float: right;
-    }
     
 #characteristics p {
-    float: left;
+    float: right;
     width: 25%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
     }
     
-#characteristics .p1 {
-    !float: left;
-    }
-    
-#characteristics .p2 {
-    !float: left;
-    }    
-    
-#characteristics .p3 {
-    !float: right;
-    }    
-
 div{ display: none; 
 }
 
