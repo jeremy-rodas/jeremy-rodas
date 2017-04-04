@@ -189,7 +189,10 @@ font-size: 1em ;
 
 div{ display: none; 
 }
-    
+
+@media (min-width: 77em) {
+  body{width:60%;
+   }
   
 
 
