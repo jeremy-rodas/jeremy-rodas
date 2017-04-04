@@ -55,6 +55,26 @@ padding-bottom: 1em;
 padding-top: 1em;
 }
 
+@media (min-width: 60em) {
+    
+#univers p {
+    float: right;
+    width: 50%;
+    margin: 0.25;
+    }
+    
+#usage p {
+    float: right;
+    width: 50%;
+    margin: 0.25;
+    }
+    
+#characteristics p {
+    float: right;
+    width: 50%;
+    margin: 0.25;
+    }
+
 @media (min-width: 70em) {
     
 
@@ -98,38 +118,25 @@ div{ display: none;
  @media (min-width: 77em) {
     body{width:75%;
     }
- 
-    h1{
-font-size: 10em;
-}
-
-p, ul {
-font-size: 1em ;
-}
-
+     
 #univers p {
     float: right;
     width: 25%;
     margin: 0.25;
     }
     
-
 #usage p {
     float: right;
     width: 25%;
     margin: 0.25;
     }
     
-    
 #characteristics p {
     float: right;
     width: 25%;
     margin: 0.25;
     }
-    
-div{ display: none; 
-}
-
+   
 @media (min-width: 77em) {
   body{width:65%;
    }
