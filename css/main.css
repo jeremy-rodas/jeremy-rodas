@@ -97,10 +97,10 @@ div{ display: none;
     }
    
 @media (min-width: 75em) {
-    body{width:50%;
+    body{width:75%;
     }
  @media (min-width: 77em) {
-    body{width:50%;
+    body{width:75%;
     }
  
     h1{
@@ -141,12 +141,12 @@ div{ display: none;
 }
 
 @media (min-width: 77em) {
-  body{width:50%;
+  body{width:75%;
    }
     
     
 @media (min-width: 78em) {
-    body{width:50%;
+    body{width:75%;
     }
         
   
