@@ -69,53 +69,30 @@ section{ clear:both;
 
 #univers p {
     float: right;
-    width: 50%;
+    width: 80%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
     }
     
-#univers .p1 {
-    !float: left;
-    }
-    
-#univers .p3 {
-    !float: right;
-    }
-
-
 #usage p {
     float: right;
-    width: 50%;
+    width: 80%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
     }
     
-#usage .p1 {
-    !float: left;
-    }
-    
-#usage .p3 {
-    !float: right;
-    }
+
     
 #characteristics p {
     float: right;
-    width: 50%;
+    width: 80%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
     }
-    
-#characteristics .p1 {
-    !float: left;
-    }
-    
-#characteristics .p3 {
-    !float: right;
- }
-    
+        
 div{ display: none;
     }
    
@@ -136,7 +113,7 @@ font-size: 1em ;
 
 #univers p {
     float: right;
-    width: 25%;
+    width: 40%%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
@@ -145,7 +122,7 @@ font-size: 1em ;
 
 #usage p {
     float: right;
-    width: 25%;
+    width: 40%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
@@ -154,7 +131,7 @@ font-size: 1em ;
     
 #characteristics p {
     float: right;
-    width: 25%;
+    width: 40%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
