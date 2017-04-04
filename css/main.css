@@ -113,7 +113,7 @@ font-size: 1em ;
 
 #univers p {
     float: right;
-    width: 65%;
+    width: 50%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
@@ -122,7 +122,7 @@ font-size: 1em ;
 
 #usage p {
     float: right;
-    width: 65%;
+    width: 50%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
@@ -131,7 +131,7 @@ font-size: 1em ;
     
 #characteristics p {
     float: right;
-    width: 65%;
+    width: 50%;
     margin: 0;
     display: inline-block;
     !vertical-align: top;
