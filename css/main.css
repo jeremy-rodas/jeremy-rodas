@@ -122,23 +122,10 @@ div{ display: none;
 @media (min-width: 75em) {
     body{width:80%;
     }
-@media (min-width: 76em) {
-    body{width:80%;
-    }
-    @media (min-width: 77em) {
+ @media (min-width: 77em) {
     body{width:70%;
     }
-@media (min-width: 78em) {
-    body{width:60%;
-    }
-@media (min-width: 79em) {
-    body{width:50%;
-    }
-@media (min-width: 80em) {
-    
-body{ width:40%
-    }
-    
+ 
     h1{
 font-size: 10em;
 }
