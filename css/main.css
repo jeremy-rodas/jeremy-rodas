@@ -75,19 +75,19 @@ div{ display: none;
     section{ clear:both;
 }
 #univers p {
-    float: right;
+    float: left;
     width: 33.3333333%;
     margin: 0.25;
     }
     
 #usage p {
-    float: right;
+    float: left;
     width: 33.3333333%;
     margin: 0.25;
     }
    
 #characteristics p {
-    float: right;
+    float: left;
     width: 33.3333333%;
     margin: 0.25;
     }
@@ -103,19 +103,19 @@ div{ display: none;
     }
      
 #univers p {
-    float: right;
+    float: left;
     width: 25%;
     margin: 0.25;
     }
     
 #usage p {
-    float: right;
+    float: left;
     width: 25%;
     margin: 0.25;
     }
     
 #characteristics p {
-    float: right;
+    float: left;
     width: 25%;
     margin: 0.25;
     }
