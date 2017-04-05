@@ -58,16 +58,7 @@ padding-top: 1em;
 @media (min-width: 40em) {
     p {
   margin: 0;
-}
-
-
-/* --- two columns --- */
-
-#usage,#univers,#characteristics .col {
-  float: left;
-  width: 50%;
-}  
-    
+}    
     h1{
 font-size: 7em;
 }
@@ -76,7 +67,7 @@ p, ul {
 font-size: 1em ;
 }
 
-d1{ display: none;
+div{ display: none;
     }
 
 @media (min-width: 70em) {
@@ -100,7 +91,7 @@ d1{ display: none;
     margin: 0.25;
     }
         
-d1 { display: none;
+div { display: none;
     }
    
 @media (min-width: 75em) {
