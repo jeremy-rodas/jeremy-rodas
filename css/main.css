@@ -76,7 +76,7 @@ p, ul {
 font-size: 1em ;
 }
 
-div{ display: none;
+d1{ display: none;
     }
 
 @media (min-width: 70em) {
@@ -100,7 +100,7 @@ div{ display: none;
     margin: 0.25;
     }
         
-div{ display: none;
+d1 { display: none;
     }
    
 @media (min-width: 75em) {
