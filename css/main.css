@@ -77,18 +77,21 @@ div{ display: none;
     float: left;
     width: 33.3333333%;
     margin: 0.25;
+    padding:1em;
     }
     
 #usage p {
     float: left;
     width: 33.3333333%;
     margin: 0.25;
+    padding:1em;
     }
    
 #characteristics p {
     float: left;
     width: 33.3333333%;
     margin: 0.25;
+    padding:1em;
     }
         
 div { display: none;
